@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="BelVG_Theme::belvg"
+             title="BelVG"
+             module="BelVG_Theme"
+             sortOrder="55"
+             resource="BelVG_Theme::belvg"
+             action="belvg"
+        />
+    </menu>
+</config>
